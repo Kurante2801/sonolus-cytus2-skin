@@ -1,0 +1,67 @@
+{
+	"title": "Sonolus Studio",
+	"banner": {
+		"type": "ServerBanner",
+		"hash": "",
+		"url": ""
+	},
+	"levels": {
+		"items": [],
+		"search": {
+			"options": []
+		}
+	},
+	"skins": {
+		"items": [],
+		"search": {
+			"options": []
+		}
+	},
+	"backgrounds": {
+		"items": [],
+		"search": {
+			"options": []
+		}
+	},
+	"effects": {
+		"items": [],
+		"search": {
+			"options": []
+		}
+	},
+	"particles": {
+		"items": [
+			{
+				"name": "cytus",
+				"version": 2,
+				"title": "Default",
+				"subtitle": "Cytus",
+				"author": "Kurante",
+				"thumbnail": {
+					"type": "ParticleThumbnail",
+					"hash": "f214629ac6fb1758df2330ec8c369c16",
+					"url": "/sonolus/repository/ParticleThumbnail/f214629ac6fb1758df2330ec8c369c16"
+				},
+				"data": {
+					"type": "ParticleData",
+					"hash": "79ef1752569af96b98a4801a0a34e718",
+					"url": "/sonolus/repository/ParticleData/79ef1752569af96b98a4801a0a34e718"
+				},
+				"texture": {
+					"type": "ParticleTexture",
+					"hash": "0eb58cfd26418bf8f4ff83ea5a01a392",
+					"url": "/sonolus/repository/ParticleTexture/0eb58cfd26418bf8f4ff83ea5a01a392"
+				}
+			}
+		],
+		"search": {
+			"options": []
+		}
+	},
+	"engines": {
+		"items": [],
+		"search": {
+			"options": []
+		}
+	}
+}
